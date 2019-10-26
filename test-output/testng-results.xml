@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HMSResults" duration-ms="17200" started-at="2019-10-26T14:18:42Z" finished-at="2019-10-26T14:18:59Z">
+    <groups>
+    </groups>
+    <test name="HMSLogin" duration-ms="17200" started-at="2019-10-26T14:18:42Z" finished-at="2019-10-26T14:18:59Z">
+      <class name="package1.Testmaven1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:package1.Testmaven1@58651fd0]" name="beforeTest" is-config="true" duration-ms="12628" started-at="2019-10-26T16:18:42Z" finished-at="2019-10-26T16:18:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:package1.Testmaven1@58651fd0]" name="f" duration-ms="3874" started-at="2019-10-26T16:18:55Z" finished-at="2019-10-26T16:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:package1.Testmaven1@58651fd0]" name="afterTest" is-config="true" duration-ms="679" started-at="2019-10-26T16:18:59Z" finished-at="2019-10-26T16:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- package1.Testmaven1 -->
+    </test> <!-- HMSLogin -->
+  </suite> <!-- HMSResults -->
+</testng-results>

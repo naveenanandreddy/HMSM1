@@ -1,0 +1,9 @@
+<suite name = "HMSResults">
+
+<test name = "HMSLogin1">
+<classes>
+<class name = "package1.Testmaven1">
+</class>
+</classes>
+</test>
+</suite>
